@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.h-font{
+    font-family: 'Merienda', cursive;
+}
+.custom-bg{
+  background-color: black;
+}
+  .custom-bg:hover{
+  background-color: #279e8c;
+}
+.h-line{
+  width: 150px;
+  height: 1.7px;
+  margin: 0 auto;
+}
